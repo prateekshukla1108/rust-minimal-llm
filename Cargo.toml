@@ -1,0 +1,11 @@
+[package]
+name = "rust-minimal-llm"
+version = "0.1.0"
+edition = "2021"
+description = "A minimal Large Language Model implementation in Rust"
+readme = "README.md"
+repository = "https://github.com/yourusername/rust-minimal-llm"
+license = "MIT"
+
+[dependencies]
+rand = "0.8.5"
