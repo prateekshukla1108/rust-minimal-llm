@@ -1,3 +1,5 @@
+![llm.c rust](rust.png)
+
 # Rust Minimal LLM
 
 A minimal Large Language Model implementation in Rust, inspired by Andrej Karpathy's `llm.c`.
